@@ -15,7 +15,7 @@
 		<input type="number" name="tinggi" required><br><br>
 		<label for="sisi">Sisi:</label>
 		<input type="number" name="sisi" required><br><br>
-		<input type="submit" name="submit" value="Hitung">
+		<input type="submit" name="hitung" value="Hitung">
 </table>
 </form>
 <?php
